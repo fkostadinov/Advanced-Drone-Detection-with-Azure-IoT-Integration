@@ -1,11 +1,8 @@
-# Dreon Detection with Azure IoT Hub Integration
+# Drone Detection with Azure IoT Hub Integration
 
-This is a modified version of this Github repo:
-
-![proj_4](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System/assets/76219349/dd32fa52-d6e9-4967-ae02-57ee70070a66)
+This is a modified version of [this Github repo](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System) by Ayushkumawat.
 
 Whenever a drone is detected in a live cam recording, a message is sent to Azure IoT hub.
-
 
 ##
 1. Set up Azure IoT Hub and an IoT device.
